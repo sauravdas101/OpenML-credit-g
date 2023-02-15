@@ -1,3 +1,8 @@
+"""
+Filters the important features in the credit-g data by Random Forest method.
+The two different metrics to select the imporatnt features, namely Mean Impunity Decrease (MDI) and
+Feature Permutaion agrees on the imporatnt features.
+"""
 import numpy as np
 import openml
 import matplotlib.pyplot as plt
