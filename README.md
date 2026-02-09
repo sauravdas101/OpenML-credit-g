@@ -1,4 +1,4 @@
-#Credit Risk Classification: Estimator Comparison on Statlog (German Credit)
+# Credit Risk Classification: Estimator Comparison on Statlog (German Credit)
 ## 📌 Project Overview:
 This project performs a comprehensive data analysis and machine learning benchmark on the Statlog (German Credit Data) dataset (OpenML ID: 31). The primary objective is to classify individuals as either "good" or "bad" credit risks based on a set of 20 attributes (e.g., checking account status, credit history, purpose, and savings).
 This repository covers the full data science lifecycle:
