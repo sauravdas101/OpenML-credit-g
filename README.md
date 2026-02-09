@@ -31,7 +31,7 @@ The benchmarking phase revealed that ensemble methods and non-linear classifiers
 ### Installation
 ```bash
 #!/bin/bash
-Bashgit clone https://github.com/sauravdas101/OpenML-credit-g.git
+git clone https://github.com/sauravdas101/OpenML-credit-g.git
 cd OpenML-credit-g
 ```
 # 📝 Conclusion
